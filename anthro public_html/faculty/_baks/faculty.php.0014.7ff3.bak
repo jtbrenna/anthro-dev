@@ -1,0 +1,17 @@
+<h3>Faculty</h3>
+ <div id="leftcolumn">
+ <h4>Meet our new Anthropology professor</h4>
+ <div id="intro">
+<p><img src="../images/matter.jpg" alt="Scott Matter"  class="imageleft" width="150" height="200"> <a href="http://www.uvm.edu/~anthro/?Page=faculty/matter.php">Read Scott's full profile.</a></p>
+</div>
+<h5>Retired Faculty</h5>
+ <p><strong>William &quot;Bill&quot; Haviland, Ph.D.</strong>, Professor; University of Pennsylvania, 1963; cultural anthropology, archaeology, physical anthropology; Mesoamerica, North America<br>
+   <strong>Carroll Lewin; Ph.D.</strong>, Associate Professor; Brandeis University, 1971; cultural anthropology, gender, theory; Middle East<br>
+   <strong>William Mitchell, Ph.D.</strong>; Columbia University, 1969; cultural anthropology, social organization, psychological anthropology, American Jewry; New Guinea (Sepik)<br>
+   <strong>A. Peter Woolfson, Ph.D.</strong>, Professor; S.U. New York-Buffalo, 1967; sociolinguistics, linguistic anthropology, bilingualism and biculturalism, microethnography, aging, French Vermonters; North America</p>
+ 
+</div>
+
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>

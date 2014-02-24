@@ -1,0 +1,30 @@
+<h3>Faculty - Benjamin Eastman</h3>
+    <div id="leftcolumn">
+        <div id="summary_box"><img src="../images/Eastman.jpg" width="142" height="142" alt="Eastman">
+            <div id="summary_text">
+                <h4>Benjamin Eastman, <span class="title">Assistant Professor </span></h4>
+                <ul>
+                    <li><abbr>Ph.D.</abbr>, University of Chicago, 2009</li>            
+                </ul>
+            <h6>Area of expertise</h6>
+                <p>Research focuses on contemporary Cuba and Latin America and his interests include socialism/post-socialism, sports, and the relationships between nationalist rituals, moral authority, and political legitimacy.</p>
+              
+                <h6>Contact Information</h6>
+
+                <address>
+                
+                    <strong>Email:</strong> <a href="mailto:benjamin.eastman@uvm.edu">Benjamin Eastman</a><br />
+                </address>
+                <p><strong>Office Hours:</strong> by appointment <br /></p>
+                
+            </div>
+      </div>
+
+      <!--<p>Side copy to come </p>-->
+
+
+    </div>
+    <div id="rightcolumn">
+  
+<?php include ("faculty_list.html"); ?>
+    </div>

@@ -1,0 +1,537 @@
+/* ==============================================
+   global 
+   ==============================================*/
+
+p.modify{
+	display:none;
+}
+
+#uvmnavbar ul li a{
+	color:#50504f;
+}
+#uvmnavbar a:hover{
+	color:#a3a3a3;
+}
+#uvmfooter { 
+	background: #928363; 
+}
+address{
+	font-style:normal;
+}
+#uvmmain{
+	width:985px;  
+}
+#mainframe{
+	width:970px;
+}
+#uvmmaincontent {
+	margin-right: 40px;
+	padding-left: 40px;
+}
+#uvmmainmenu img.defaultimg {
+    border:0;
+}
+#uvmcustombanner2{
+	border-left:0;
+    width:770px;
+    display:block;
+}
+#uvmcustombanner2 #homepage_banner_wrapper{
+	height:255px;
+   overflow:hidden; 
+}
+#uvmcustombanner2 h4{
+	width:160px;	
+	float:right;
+	margin:1em 20px .6em 0px;
+	font-size: 1.5em;
+	font-family:georgia, serif;
+    }
+#uvmcustombanner2 p {	
+	width:160px;	
+	float:right;
+	margin:0 20px 0 0;	
+	font-family: arial, san-serif;	
+	font-size: 1.1em;	
+	line-height: 1.4em;
+}
+#uvmcustombanner2 #homepage_banner_wrapper img.top{
+   float:left;
+   margin-right:20px;
+    }
+#uvmcontent h2#subbanner { 
+	font-size: 2.1em;
+	font-weight:normal;
+    }
+#uvmmaincontent h3 { 
+	font-family: georgia, serif;
+	font-size: 1.6em;
+	font-weight: normal;
+	letter-spacing: 0.02em;
+}
+#uvmmaincontent h4 { 
+	font-size:1.2em;
+}
+#uvmmaincontent #rightcolumn_float, #uvmmaincontent div.rightcolumn_float{
+    margin-right:-58px;
+}    
+#rightcolumn_float h4, #rightcolumn h4, #uvmmaincontent div.rightcolumn_float h4 { 
+	font-size:1.1em; 
+	line-height: 1.2;	
+}
+#uvmmaincontent #rightcolumn_float a, #uvmmaincontent div.rightcolumn_float a{
+    text-decoration:underline;
+    }
+object{
+	margin-top: 10px;
+	margin-left:10px;
+}
+#uvmsupplinks p.smtext {
+	color: #666;
+	font-style: italic;
+	font-size:0.9em;
+}
+#uvmsupplinks h4{
+	text-transform:none;
+}
+#uvmsupplinks p{
+	font-size: 1.1em;
+	line-height: 1.4;
+}
+#uvmsupplinks ul li{
+	font-size: 1.1em;
+	line-height: 1.4;
+}
+#uvmsupplinks p a{
+	text-decoration: underline;
+}
+#uvmsupplinks ul li a{
+	text-decoration: underline;
+}
+#uvmsupplinks div.bottom-rule {
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 5px;
+}
+#uvmmaincontent  p.ruleabove, li.ruleabove {
+	border-top: 1px dashed #ccc;
+	color:#066e80;
+	font-weight: bold;
+	font-size:1.1em;
+	padding-top: 10px;
+	list-style-type:none;
+	float:left;
+	width:640px;
+}
+#uvmmaincontent  p.ruleabove a, #uvmmaincontent li.ruleabove a{
+	color:#066e80;
+}
+li.ruleabove ul{
+	margin-left:0;
+	padding-left:0;
+}
+li.ruleabove ul li {
+	color:#444;
+	font-weight: 
+	normal;font-size:1em;
+	padding-top: 10px;
+	list-style-type:none;
+	padding:0;
+}
+/* ==============================================
+   home page
+   ==============================================*/
+   
+#container{
+	overflow:hidden; 
+	width:750px;
+	float:left;
+	padding:0 0 0 19px;
+	margin-top:-20px;
+	margin-left:-39px;
+	background:#fff url("images/three_column_tile_solid_new.jpg") repeat-y 188px 0px;
+}
+#content{
+	width:550px;
+	border-right:200px solid #d9e7eb;
+	margin-right:-200px; 
+	padding-bottom:0em;
+	float:left;
+}
+#sidebar{
+	width:160px;
+	float:right;
+	margin:0;
+	padding:2em 20px 2em 20px;
+	line-height:1.4;
+	font-size:0.95em;
+	background:#d9e7eb;
+}
+#sidebar p{
+    line-height:1.6em;
+    }
+#sidebar a{
+	text-decoration:none;
+}
+#uvmmaincontent #sidebar h3{
+    color:eb983c;
+    }
+#uvmmaincontent #sidebar ul{
+    margin:12px 12px 0 0;
+    padding-left:30px;
+}
+#sidebar ul li{
+	padding-bottom:.7em;
+	list-style:none;
+	margin-left:-10px;
+}
+#uvmmaincontent #content #intro{
+	background:#fff;
+	margin:0 2px 1.4em -19px;
+	padding:0 20px 0 30px;
+	border-bottom:1px #ccc solid;
+}
+#uvmmaincontent #content h3#homepage{
+    background:#fff;
+	margin:0px 0 -20px 0px;
+	padding:20px 10px 20px 10px;
+	width:500px;
+}
+#multi_column_wrapper{
+	float:left;
+	margin:0 0 0 -19px;
+	width:569px;
+}
+.multi_column{
+	float:left;
+	width:159px;
+	padding-left:19px;
+	margin-right:10px;
+	padding-bottom:1em;
+}
+.multi_column ul{
+	padding-left:15px;
+	margin-left:0;
+}
+#uvmmaincontent .multi_column h3{
+	font-family:arial, sans-serif;
+	font-size:120%;
+	line-height:1em;
+	font-weight:lighter;
+	color:#41789a;
+}
+
+
+/* ==============================================
+   news style calls (home page also)
+   ==============================================*/
+#sidebar #news_section h3{
+    display:none;
+}
+#sidebar #news_section h4{
+    color:#41789a;
+}
+#uvmmaincontent div.basic ul {
+	padding-left:10px !important;
+	padding-right:6px !important;
+	margin-left:0;
+	margin-right:0px;
+	list-style-type:none;
+}
+div.basic ul li{ 
+	text-indent: 0em;
+	margin:0 0 0 0;
+	padding:0;
+	font-size:96%;
+	font-weight:normal;
+}
+div.basic ul li a{
+	text-decoration:none;
+	font-weight:bold;
+	display:block;
+}
+#newscontent p{
+	font-size: 1.1em;
+}
+#newscontent img {
+	float: left;
+	margin-bottom: 10px;
+	padding: 0px 10px 0 0;
+	width:300px;
+	height:210px;
+	border:0;
+} 
+#newscontent ul {
+	list-style: disc;
+	padding-left: 20px;
+}
+
+#photobox{
+	float:none;
+	float:left;
+	margin:.4em 14px 0 0;
+	width:310px;
+}
+#photobox p{
+	font-style:italic;
+	color:#6e6e6e;
+	font-size:90%;
+	margin-right:0;
+}
+.photo_bar {
+  padding-right: 28px;
+}
+/* ==============================================
+   faculty calls
+   ==============================================*/
+#uvmmaincontent #leftcolumn { 
+	width: 540px;
+	padding-left:0 !important;
+    padding-bottom:2em !important;
+}
+#uvmmaincontent #leftcolumn p{ 
+	margin-left:0;
+	margin-right:20px;
+}
+#uvmmaincontent #rightcolumn { 
+	width: 155px; 
+	padding:0;
+	margin-right:-40px;
+	margin-left:8px;
+}
+#rightcolumn h4{
+	font-family:georgia, serif;
+	font-size: 1.2em;
+	color:#617f21;
+}
+#faculty_bio h3{
+	font-family:georgia, serif;
+	font-size:1.5em;
+	font-weight:lighter;
+	margin-bottom:.4em;
+}
+#faculty_bio h4{
+	background:#fff url("images/square.jpg") no-repeat 0 50%;
+	padding-left:20px;
+}
+#faculty_bio h5{
+	margin-bottom:-.8em;
+	color:#5f5f5f;
+}
+#summary_box{
+	background:#f7f8ec;
+	border:1px solid #edefd9;	
+	border-left:0;
+	float:none;
+	float:left;
+	margin:0px 12px .4em 0px;
+	padding:12px;
+	border-left:1px solid #edefd9;
+}
+#summary_box img{
+	float:left;
+	margin:0 12px 1.4em 0;
+}
+#summary_box #summary_text{
+	border-left:1px dashed #907753;
+	float:left;
+	padding-left:12px;
+	font-size:90%;
+	padding-bottom:.6em;
+	width:200px;
+}
+#uvmmaincontent #summary_box #summary_text ul{
+	padding-left:12px;
+	margin:.3em 0 .3em 0;
+}
+#summary_box #summary_text li{
+}
+#summary_box #summary_text p{
+	margin:0;
+}
+#summary_box #summary_text h6{
+	margin:.5em 0 0 0;
+}
+#faculty_bio #summary_box h4{
+	color:#b47250;
+	font-family:georgia, serif;
+	font-size:120%;
+	padding-left:0;
+	background:none;
+	margin-top:0;
+}
+span.title{
+	font-size:90%;
+	display:block;
+}
+
+#rightcolumn p em{
+	color:#b0afad;
+}
+#uvmmaincontent #rightcolumn ul#folding_list{
+	margin-left:0;
+	padding-left:0;
+}
+#uvmmaincontent #rightcolumn ul#folding_list li{
+	list-style-type:none;
+	margin:0;  
+	padding:0 0 0 14px;
+	background:#fff url("/~webshare/cas/music/images/plus.jpg") no-repeat 0 6px;    
+}
+#uvmmaincontent #rightcolumn ul#folding_list li a{
+	color:#70706f;
+	font-weight:bold;
+	font-size:110%;
+}
+#uvmmaincontent #rightcolumn ul#folding_list li li{
+	display:none;    
+}
+#uvmmaincontent #rightcolumn ul#folding_list li:hover{
+	background:none;
+}
+#uvmmaincontent #rightcolumn ul#folding_list li:hover ul li {
+	display:block;
+	background:none;
+	margin-left:-15px;
+	padding-left:0;
+}
+#uvmmaincontent #rightcolumn ul#folding_list li:hover ul li a{
+	color:#70706f;
+	font-weight:normal;
+}
+#uvmmaincontent #small_leftcolumn{
+	width:140px;
+	float:left;
+	border-right:1px dashed #ccc;
+	margin-right:14px;
+	margin-left:0px;
+	padding-right:12px;
+}  
+#uvmmaincontent #small_leftcolumn ul{
+	margin-left:0;
+	padding-left:0;
+}
+#uvmmaincontent #small_leftcolumn ul li{
+	margin-bottom:.8em;
+	list-style-type:none;
+}
+
+/* ==============================================
+  photo gallery calls
+   ==============================================*/
+#gallery {
+	border: 1px solid #ccc;
+	border-top: 8px solid #82714e;
+	margin-top: 30px;
+	padding: 20px;
+	background:#f7f8ec;
+}  
+#uvmmaincontent ul#gallerynav{
+	width:250px;
+	float:right;
+}
+#uvmmaincontent ul#gallerynav li{
+	display:inline;
+	list-style-type:none;
+	border-right:1px solid #aaa;
+	padding:0 8px;
+	line-height:2em;
+}   
+#photogrid {
+	border-bottom: 1px solid #ccc;
+	padding: 30px 20px 20px 40px;
+	/*background:#aeaead;*/
+	margin-top:-20px;
+	margin-left:-40px;
+	margin-right:-70px;
+}
+#uvmmaincontent #calbox{
+	margin-right:-58px !important;
+    }
+
+/* ==============================================
+   boxes and 2-3 column stuff
+   ==============================================*/
+
+#uvmmaincontent .leftcolumn{
+	width:358px;float:left;
+	margin-left:0px;
+	padding-right:0px;
+	border-right:1px solid #ccc;
+}
+#uvmmaincontent #full_width_box, #uvmmaincontent .full_width_box {
+	width:670px;
+	padding-right: 15px;
+	background:#f7f8ec;
+	border:1px solid #edefd9;	
+}
+#uvmmaincontent div.evenly_split{
+	border:0 !important;
+	margin:0;
+	width:320px;
+	margin-right:14px;
+}
+/*4-16*/
+.three_column{
+	float:left;
+	width:190px;
+	border-right:1px dashed #999;
+	padding:0 15px .6em 15px;
+}
+.column_one{
+	padding-left:0;
+}
+.column_end{
+	border:0;
+	margin:0 -33px 0 0;
+}
+.three_column ul{
+	padding-left:15px;
+}
+#uvmmaincontent dl.web_form dd{
+    margin:0px 0 8px 0;
+    padding:0;
+}
+span.inputleft{
+    float:left;
+    margin:0 20px 0 0;
+    padding:0;
+    } 
+* html #uvmcustombanner2 #homepage_banner_wrapper{
+    width:770px;
+    }
+
+* html #container{
+	width:754px;
+	padding:0 0 0 14px;
+    margin-left:-19px;
+    margin-right:-60px;
+	}    
+* html #content{
+	padding-bottom:0em;
+	float:left;
+}
+* html #sidebar{
+    float:right;
+    margin-top:0px;
+    margin-right:-2px;
+}
+* html .multi_column{
+	padding-top:1.4em;
+	padding-bottom:2em;
+}
+* html h2#subbanner{
+    height:30px;
+}
+* html #uvmmaincontent #rightcolumn_float, * html #uvmmaincontent div.rightcolumn_float, * html #uvmmaincontent #rightcolumn{
+    margin-right:-29px;
+} 
+
+*+html #container{
+    float:none;
+    margin-top:-100px;
+    margin-bottom:-20px;  
+      }
+
+       
+

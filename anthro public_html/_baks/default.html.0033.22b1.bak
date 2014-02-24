@@ -1,0 +1,82 @@
+<!--<h3 id="homepage_head"></h3>
+
+<div id="intro">
+ <p>TLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit tortor eu lorem tristique vel faucibus lorem tincidunt. Nunc justo libero, mollis nec gravida quis, commodo condimentum leo. Suspendisse urna tortor, bibendum ut semper id, tincidunt a est. Fusce non nulla at diam tristique mattis et a orci. Donec ac diam eget risus laoreet consectetur. </p>
+
+</div>
+
+
+
+<div id="multi_column_wrapper">
+
+<div class="multi_column">
+	
+<p>TVivamus porttitor, purus et viverra congue, lectus urna placerat risus, ac mattis magna neque ut enim. In porta convallis nulla in iaculis. Praesent euismod sapien pellentesque nulla accumsan sed rhoncus libero eleifend. Vestibulum non purus enim. In id turpis at magna rhoncus placerat ut nec felis. Nam rhoncus scelerisque quam eu porttitor. 
+</p>
+
+<p>Praesent quis odio sit amet nisl vulputate molestie. Donec ut diam id urna aliquet sollicitudin ac at magna. Aenean dignissim consequat nunc, in rutrum enim lacinia a. Curabitur orci quam, consectetur in porta vitae, pharetra a neque. In non sem nisi. In tempus blandit mauris, ac lacinia nisl sollicitudin quis. Nunc elementum neque sit amet diam ultrices faucibus. Vivamus viverra lacus ac metus vestibulum aliquet. Curabitur nunc tellus, scelerisque at tristique id, rhoncus ullamcorper lectus.
+</p>
+
+<p>Aenean consectetur sodales suscipit. Integer viverra ipsum ut orci semper eleifend. Aliquam erat volutpat. Integer quis magna euismod nisl semper sodales et vel libero. Ut tempus, ligula malesuada pulvinar pretium, justo leo egestas massa, ac sollicitudin massa justo a nunc. Proin ac ante urna. Nulla facilisi. Nullam vitae purus at turpis facilisis mollis. Aliquam eget odio nec odio cursus lobortis et eget orci. Sed eros neque, suscipit a fermentum vitae, sagittis sed tellus. Fusce nec massa at justo suscipit ornare. Pellentesque ut felis in turpis commodo pretium.</p>
+
+
+ </div>
+
+
+<div class="multi_column last">	
+<img src="images/Wheeler1.gif" width="160" height="" alt="Wheeler House" />
+
+<h4>Fusce venenatis odio at sem </h4>
+<address><strong>Xxxxxx House</strong><br />
+133 S. Prospect Street<br />
+Burlington, VT 05405</address>
+<p>
+Phone: (802) 656-0000<br />
+Fax: (802) 656-0000<br />
+Email: xxxxxxx@uvm.edu</p>
+
+</div>
+
+</div>--><!-- close#multicolumn_wrapper -->
+
+
+
+
+<h3 id="homepage_head">Anthropology at <abbr>UVM</abbr>: A firm grounding in all four areas of the discipline</h3>
+
+<div id="intro">
+ <p><img src="images/anthrofaculty.jpg" alt="Anthropolgy faculty" class="imageleft" width="250">Although our faculty is deeply committed to research and other scholarly activities, we see our primary mission as providing a first-rate undergraduate education. Our majors are well-prepared  in the areas of archaeology, biological anthropology, sociocultural anthropology and linguistic anthropology. Many have even gone on to graduate work in anthropology and have shared feedback that this firm grounding in all four areas of the discipline has helped them succeed.</p>
+</div>
+
+
+
+<div id="multi_column_wrapper">
+
+<div class="multi_column">
+	
+<h4>Major, minor, get your hands dirty</h4>
+<p>Through the four areas of discipline, we are  committed to providing students with a comprehension of the variations in human populations and a sensitivity to cultural differences.</p>
+<h5>Learning happens in the classroom and in the field:</h5>
+<ul>
+  <li><strong>Hands-on courses:</strong> Field Work in Archaeology; Methods of Ethnographic Field Work</li>
+  <li><strong>Topical classes based on faculty research:</strong> Law, War and Disorder; Anthropology of Media</li>
+  <li><strong>Lab facilities:</strong> Provide training for students interested in archaeology, human osteology, and forensic anthropology</li>
+  <li><strong>Consulting Archaeology Program (CAP):</strong> Gain experience in hands-on archaeology and employment</li>
+  <li><strong>Readings and Research program: </strong>Students pursue their own interests by working with an appropriate faculty member</li>
+  <li><strong>College Honors: </strong>For the highly motivated student wishing to prepare a major research project</li>
+  </ul>
+ <h4><a href="http://retn.org/show/eating-far-home-migrant-foodways-vermont">Teresa Mares and Pablo Bose talk about migrant foodways in Vermont. Watch it now!</a></h4>
+ <h2>&nbsp;</h2>
+ </div>
+
+
+<div class="multi_column last">
+  <h4>Connect to us on:</h4>
+  <h4> <a href="https://www.facebook.com/groups/410485755635018/">Facebook</a></h4>
+  <h4><a href="http://www.linkedin.com/groups/UVM-Anthropology-Network-4344662">LinkedIn</a></h4>
+  <h4> or visit our <a href="http://blog.uvm.edu/anthro/">Anthropology blog</a>.</h4>
+</div>
+</div><!-- close#multicolumn_wrapper -->
+
+
+

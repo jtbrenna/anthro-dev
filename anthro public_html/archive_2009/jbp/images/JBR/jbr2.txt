@@ -1,0 +1,12 @@
+Map of JBR-2/ short names to long names 11/05
+
+jbr2_1.jpg = C. Knight, J. Crock, D.  Watters & J. Petersen May 2004.jpg
+jbr2_2.jpg = D. Watters, J. Crock & J. Petersen May 2005 .jpg
+jbr2_3.jpg = Hornblower Site 1982 Tom Baker, James Petersen, ,  Lynn Bouc.jpg
+jbr2_4.jpg = Jim  Petersen at HornblowerII  1982.jpg
+jbr2_5.jpg = Jim Petersen at Winooski May 2005.jpg
+jbr2_6.jpg = Mayhew 1985 Jim Petersen, Mike Heckenberger & Alice Webster.jpg
+jbr2_7.jpg = Mayhew 1985 Jim Petersen, Mike Heckenberger, Bick Burt.jpg
+jbr2_8.jpg = Mayhew Site 1985 Jill Bouck, Jim Petersen, Dick Burt & Charl.jpg
+jbr2_9.jpg = Mayhew Site 1985 Jim Petersen, Charlie P., Miriam Richardson.2pg
+T1humbs.db

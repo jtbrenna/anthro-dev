@@ -1,0 +1,54 @@
+<table>
+  <tr>
+    <td>0</td>
+    <td>Department of Anthropology</td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td>1</td>
+    <td>Explore Anthropology</td>
+    <td>discover.html&amp;SM=discovermenu.html</td>
+  </tr>
+  <tr> 
+    <td>2</td>
+    <td>Undergraduate Major and Minor</td>
+    <td>ba.html&amp;SM=ugprogramsubmenu.html</td>
+  </tr>
+  <tr> 
+    <td>6</td>
+    <td>Courses</td>
+    <td>CatalogCourses&category=ANTH</td>
+  </tr>
+  <tr> 
+    <td>4</td>
+    <td>Faculty</td>
+    <td>faculty/faculty.php</td>
+  </tr>
+  <tr> 
+    <td>7</td>
+    <td>Student Opportunities</td>
+    <td>opportunities.html&SM=opportunitiesmenu.html</td>
+  </tr>
+    <tr> 
+    <td>8</td>
+    <td>News and Events</td>
+    <td>events.html</td>
+  </tr>
+  <tr> 
+    <td>9</td>
+    <td>Contact Us</td>
+    <td>contact.html</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>graduate.html&amp;SM=gradsubmenu.html</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>UVM Property Rights</td>
+    <td>UVMPropertyRights.html</td>
+  </tr>
+ 
+</table>
+

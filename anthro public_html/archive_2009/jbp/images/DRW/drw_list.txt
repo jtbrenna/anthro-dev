@@ -1,0 +1,12 @@
+This is a map that has the complete text titles of the pics and how they point to short names for web use. 11/05
+
+drw1.jpg = Dave Watters and Jim at a Montserrat watering hole (1990).jpg
+drw2.jpg = Dave Watters and Jim at the Trants site, Montserrat (1990).jpg
+drw3.jpg = Jim at the Big Springs site, Anguilla (1992).jpg
+drw4.jpg = Jim on the escarpment on the east coast of Barbuda (1992).jpg
+drw5.jpg = Jim recording while Ellie Cowie excavates, Trants site, Mont.jpg
+drw6.jpg = Jim wearing respirator after volcanic ash cloud descended, M.jpg
+drw7.jpg = Jim, Cathy Watters, Desmond Nicholson, John Crock, and Lisa .jpg
+drw8.jpg = Labeling artifacts from Trants, Montserrat – Bob Bartone, Da.jpg
+drw9.jpg = The least favorite task of Jim and Dave Watters – washing th.jpg
+Thumbs.db

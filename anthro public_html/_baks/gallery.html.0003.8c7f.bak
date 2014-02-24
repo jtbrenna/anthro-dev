@@ -1,0 +1,35 @@
+<h3>Department Photo Gallery</h3>
+<div id="intro">
+<p>Whether in the field or the classroom, our faculty bring their vast interests and sensitivities to their scholarship. View photos of our department:</p>
+</div>
+
+<div id="gallery">
+<ul id="gallerynav">
+<li style="border-right:0;"><strong>Photos:</strong></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/debb.jpg', 'lg_image_caption', 'Professor Deborah Blom (on left) in Bolivia (Photo by Wolfgang Schuler).')">1</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/allen.jpg', 'lg_image_caption', 'James Allen, TA to Professor Deborah Blom, teaching osteology in the Anthropology lab.')">2</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/natedance.jpg', 'lg_image_caption', 'Nate Clough UVM Anthropology alum dancing in the town fiesta in Bolivia.')">3</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/shannon.jpg', 'lg_image_caption', 'Shannon Wilson, Anthropology major, doing field work in Bolivia.')">4</a></li>
+
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/sheaphoto.jpg', 'lg_image_caption', 'Jeanne Shea&rsquo;s research takes her to China.')">5</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/vankeuren.jpg', 'lg_image_caption', 'Scott Van Keuren&rsquo; s Shumway Archaeological Project examines Pueblo peoples in Arizona.')">6</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/vankeuren1.jpg', 'lg_image_caption', 'Dr. Van Keuren&rsquo; s research addresses questions about the social and economic organization of the ancient landscape.')">7</a></li>
+ 	<li><a href="#_self" onclick="LoadGallery('lg_image', 'images/dickinsonphoto.jpg', 'lg_image_caption', 'Market workers in Zakarpattja.')">8</a></li>
+  </ul>
+
+ <img src="images/debb.jpg" alt="Professor Deborah Blom" width="320" height="210" id="lg_image" />
+ <p id="lg_image_caption">
+ Professor Deborah Blom (on left) in Bolivia (Photo by Wolfgang Schuler). </p>
+
+ 
+ 
+ 
+<script type="text/javascript" >
+
+			 function LoadGallery(pictureName,imageFile,captionName,captionText)
+ {
+   document.getElementById(pictureName).src = imageFile;
+   document.getElementById(captionName).innerHTML = captionText;
+ }
+ </script>
+</div>

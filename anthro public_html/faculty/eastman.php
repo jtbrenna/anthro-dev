@@ -1,0 +1,36 @@
+<h3>Faculty - Benjamin Eastman</h3>
+    <div id="leftcolumn">
+        <div id="summary_box"><img src="../images/Eastman.jpg" width="142" height="142" alt="Eastman">
+            <div id="summary_text">
+                <h4>Benjamin Eastman, <span class="title">Assistant Professor </span></h4>
+                <ul>
+                    <li><abbr>Ph.D.</abbr>, University of Chicago, 2009</li>            
+                    <li><a href="documents/EastmanCV.doc"><strong>Curriculum Vitae</strong></a></li>
+                </ul>
+            <h6>Area of expertise</h6>
+                <p>Research focuses on contemporary Cuba and Latin America and his interests include socialism/post-socialism, sports, and the relationships between nationalist rituals, moral authority, and political legitimacy.</p>
+              
+                <h6>Contact Information</h6>
+
+                <address>
+                
+                    <strong>Email:</strong> <a href="mailto:benjamin.eastman@uvm.edu">Benjamin Eastman</a><br />
+                </address>
+                <p><strong>Phone:</strong> (802) 656-2905</p>
+              <p><strong>Office Hours:</strong> Tuesday and Thursday, 1:00-3:00; or by appointment</p>
+                <p>Williams Hall, Room 501</p>
+              
+            </div>
+      </div>
+
+      <!--<p>Side copy</p>-->
+ <p><strong>Benjamin Eastman</strong> is an Assistant  Professor of Anthropology at the University of Vermont.&nbsp; He received his B.A. (1994, with honors) in  Anthropology from the University of California, Santa Cruz, his M.A. (2001) in  Socio-cultural Anthropology from the University of Chicago, and his Ph.D. in Socio-cultural Anthropology from the University of Chicago in December  2009.</p>
+                <p>Eastman's research focuses on contemporary Cuba and  Latin America and his interests include socialism/post-socialism, sports, and  the relationships between nationalist rituals, moral authority, and political  legitimacy. Specifically, his work is situated analytically and  methodologically at the intersection of official interests with popular  concerns in Cuban baseball during the post-Soviet &quot;special period&quot; in  Cuban society. He examines how under the severe circumstances of the  &quot;special period&quot; baseball may be a site where contradictions in  socialist authority are made visible and in the process how the game can be  infused with new meanings capable of redefining the legitimacy of the Cuban  state.</p>
+                <p>In addition to his  ongoing research on the relationship between politics and sports in  contemporary Cuba, Professor Eastman also looks at issues of globalization  through the lens of sport. Most recently, he conducted ethnographic  research in March 2009 at the second World Baseball Classic. In both  Mexico City and Los Angeles, California, Eastman interviewed fans from around  the world as well as observed the various levels of competition contained  within and promoted by the Classic: team against team; nation against nation;  as well as corporation against corporation.</p>
+                <p>Recent  publications based on this research include his co-edited volume, <em>America's Game(s): A Critical Anthropology  of Sports</em> (Routledge 2007) featuring his articles on Cuban baseball fans  and their efforts to make sense of Cuban baseball player defections to play  professionally in the United States as well as on how contemporary practices of  American power can be read through American sporting practices. Eastman teaches  courses on political anthropology, the anthropology of sports, the anthropology  of colonialism, the anthropology of Latin America, as well as anthropological  theory. </p>
+
+    </div>
+    <div id="rightcolumn">
+  
+<?php include ("faculty_list.html"); ?>
+    </div>

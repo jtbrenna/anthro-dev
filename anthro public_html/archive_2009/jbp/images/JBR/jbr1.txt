@@ -1,0 +1,11 @@
+Map pf short names to long names in JBR-1/  11/05
+
+jbr1_1.jpg = Cathy Watters, Jim and Barbudan friends (1992).jpg
+jbr1_2.jpg = Dave Watters, Jim and Henri Petitjean Roget drinking rum on .jpg
+jbr1_3.jpg = Henri Petitjean Rojet, Dave Watters and Jim at the Prehistor.jpg
+jbr1_4.jpg = Jim analyzing artifacts Anguilla (1992).jpg
+jbr1_5.jpg = Jim and Cathy Watters enjoying a Barbudan cookout (1992).jpg
+jbr1_6.jpg = Jim and Morris (Tomac) Nedd on Codrington Lagoon, Barbuda (1.jpg
+jbr1_7.jpg = Jim, Dave Watters and Barbudans at the Barbuda filling stati.jpg
+jbr1_8.jpg = Jim, Dave Watters and friends enjoying a swim on Guadeloupe .jpg
+Thumbs.db

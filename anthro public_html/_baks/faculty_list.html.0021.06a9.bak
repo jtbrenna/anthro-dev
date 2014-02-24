@@ -1,0 +1,27 @@
+<h4>Faculty Directory</h4>
+<ul>
+	<li><a href="/~anthro/?Page=faculty/vanvalkenburgh.php">Parker VanValkenburgh</a></li>
+	<li><a href="/~anthro/?Page=faculty/blom.php">Deborah Blom</a></li>
+	<li><a href="/~anthro/?Page=faculty/crock.php">John Crock</a></li>
+	<li><a href="/~anthro/?Page=faculty/dickinson.php">Jennifer Dickinson</a></li>
+	<li><a href="/~anthro/?Page=faculty/eastman.php">Benjamin Eastman</a></li>
+	<li><a href="/~anthro/?Page=faculty/gordon.php">Robert Gordon</a></li>
+	<li><a href="/~anthro/?Page=faculty/manetta.php">Emily Manetta</a></li>
+	<li><a href="/~anthro/?Page=faculty/mares.php">Teresa Mares</a></li>
+	<li><a href="/~anthro/?Page=faculty/shea.php">Jeanne Shea</a></li>
+	<li><a href="/~anthro/?Page=faculty/steinberg.php">Jonah Steinberg</a></li>
+	<li><a href="/~anthro/?Page=faculty/keuren.php">Scott Van Keuren</a></li>
+	<li><a href="/~anthro/?Page=faculty/vivanco.php">Luis Vivanco</a></li>
+</ul>
+<h4>Lecturers</h4>
+<ul>
+  <li><a href="/~anthro/?Page=faculty/matter.php">Scott Matter</a></li>
+  <li><a href="/~anthro/?Page=faculty/robinson.php">Francis &quot;Jess&quot; Robinson</a></li>
+</ul>
+<h4>Anthropologists in Other Departments</h4>
+<ul>
+  <li><a href="../~religion">Vicki Brennan</a></li>
+  <li><a href="../~religion/?Page=chipumuro.php">Todne Thomas Chipumuro</a></li>
+  <li>Ann M. Kroll Lerner</li>
+  <li><a href="../nfs/">Amy Trubek</a> </li>
+</ul>
