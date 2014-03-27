@@ -35,7 +35,7 @@
 <h3>Faculty - First Last</h3>
 
 <div class="faculty-list">
-<div class="faculty"><img src="images/blom.jpg"><div><h4>Deborah Blom</h4></div></div>
+<div class="faculty"><img src="images/blom.jpg"><div><a href="faculty/?Page=blom.php&SM=facultysubmenu.html"><h4>Deborah Blom</h4></a></div></div>
 <div class="faculty"><img src="images/crock.jpg"><div><h4>John Crock</h4></div></div>
 <div class="faculty"><img src="images/dickinson.jpg"><div><h4>Jennifer Dickinson</h4></div></div>
 <div class="faculty"><img src="images/eastman.jpg"><div style="margin-top:8%;"><h4>Benjamin Eastman</h4></div></div>

@@ -1,0 +1,31 @@
+<h3>Adjunct Faculty - Larry Ziegler-Otero</h3>
+    <div id="leftcolumn">
+        <div id="summary_box">
+        <img src="http://www.uvm.edu/~webshare/cas/music/images/headshot.jpg" height="200" width="150" alt="Larry Ziegler-Otero" />
+            <div id="summary_text">
+                <h4>Larry Ziegler-Otero, <span class="title">Adjunct</span></h4>
+                <ul>
+                    <li>Ph.D., Temple University, 2001</li>            
+                </ul>
+            <h6>Area of expertise</h6>
+                <p>Political economy, Latin American indigenous groups, resistance and organization, development and globalization; Latin America and the Caribbean, and Latinos in the U.S.</p>
+              
+                <h6>Contact Information</h6>
+
+                <address>
+                
+                    <strong>Email:</strong> <a href="mailto:gringito59@hotmail.com">Larry Ziegler-Otero</a><br />
+                </address>
+                <p><strong>Office Hours:</strong> by appointment <br /></p>
+                
+            </div>
+        </div>
+
+      <!--<p>Side copy to come </p>-->
+
+
+    </div>
+    <div id="rightcolumn">
+  
+<?php include ("faculty_list.html"); ?>
+    </div>

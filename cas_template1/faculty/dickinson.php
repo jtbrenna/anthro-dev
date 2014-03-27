@@ -1,0 +1,32 @@
+<h3>Faculty - Jennifer Dickinson</h3>
+    <div id="leftcolumn">
+        <div id="summary_box">
+            <img src="../images/dickinson.jpg" height="200" width="150" alt="Jennifer Dickinson" />
+            <div id="summary_text">
+                <h4>Jennifer Dickinson, <span class="title">Associate Professor </span></h4>
+                <ul>
+                    <li><abbr>Ph.D.</abbr>, University of Michigan, 1999</li>            
+                    <li><a href="documents/DickinsonCV_000.pdf">Curriculum Vitae</a></li>
+                </ul>
+            <h6>Area of expertise</h6>
+                <p>Linguistic anthropology; conversational interaction; material culture and museum anthropology; economic anthropology; advertising and media; Eastern Europe, Ukraine, Transcarpathia.</p>
+              
+                <h6>Contact Information</h6>
+                <address>
+                    <strong>Email:</strong> <a href="mailto:jennifer.dickinson@uvm.edu">Jennifer Dickinson</a><br />
+                    <strong>Phone:</strong> (802) 656-0837
+                </address>
+                <p><strong>Office Hours:</strong>  Tuesday, 12:00-1:00, and Wednesday, 10:45-11:45; or by appointment<br />
+              Williams Hall, Room 514A</p>
+                <p><strong>Website:</strong> <a href="http://blog.uvm.edu/jadickin/">Faculty website</a></p>
+            </div>
+        </div>
+
+<p> Dr. Jennifer  Dickinson received her B.A. in 1992 from Bryn Mawr College, where she majored in Anthropology and Russian, and two M.A.'s, one in Anthropology, and another in Russian and East European Studies from the University of Michigan (1995; 1996). She received her Ph.D. in Anthropology with a specialization in Linguistic Anthropology from the University of Michigan in 1999. She has done research in several regions of the former Soviet Union, and currently focuses on Eastern Europe, and in particular, Ukraine. Her broad academic interests cover many areas of cultural and linguistic anthropology, including storytelling, conversational pragmatics, language ideologies, the anthropology of Eastern Europe, material culture studies, and the anthropology of work.   </p>
+<p>Dr. Dickinson's dissertation, entitled "Life on the Edge: Understanding Social Change through Everyday Conversation in a Ukrainian Border Community," combined these broad interests, exploring the ways in which everyday conversational interactions among members of a dialect-speaking border community contributed to these villagers' emerging understandings of social and economic change in post-Soviet Ukraine. One of the main foci of her dissertation, and of her continuing work in linguistic and cultural anthropology, is the nature of conversational storytelling, from the level of grammatical structure to the nature of topic shift and the role of storytelling in creating social cohesion and social meaning.  In addition to continuing to study the role of personal narrative the transformation of working life in the Zakarpattia region of Ukraine, Dr. Dickinson has established a separate line of research into the linguistics and semiotics of advertising.  Her most recent project focuses on alphabet mixing and graphic design in Ukrainian outdoor advertising, offering a linguistic anthropological approach to the transformation of public space in the city of Lviv.  Her blog <a href="http://blog.uvm.edu/jadickin/">&quot;Language, Culture and <em>Smak</em>&quot;</a>&#157; explores topics related to language, culture and food in Eastern Europe.   Dr. Dickinson also serves as the faculty Director of UVM's <a href="../../ctl/">Center for Teaching and Learning</a> and Director of <a href="http://www.uvm.edu/~global/rees/">Russian and East European Studies</a>.  </p>
+<p>Among the courses Prof. Dickinson has taught at UVM are Linguistic Anthropology; Sociolinguistics; Anthropology of Eastern Europe; Linguistics and Archaeology; Alcohol and Culture; Business Anthropology; Storytelling in Cross-Cultural Perspective; Language, Gender and Sexuality; Museum Anthropology and Modernity and Material Culture. </p>
+    </div>
+<div id="rightcolumn">
+  
+<?php include ("faculty_list.html"); ?>
+</div>

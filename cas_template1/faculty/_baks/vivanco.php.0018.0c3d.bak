@@ -1,0 +1,38 @@
+<h3>Faculty - Luis Vivanco</h3>
+<div id="leftcolumn">
+        <div id="summary_box">
+          <p><img src="../images/LuisVivanco2012a_000.jpg" width="257" height="341" alt="Vivanco"></p>
+          <div id="summary_text">
+                <h4>Luis Vivanco, <span class="title">Associate Professor and Director of Global and Regional Studies</span></h4>
+                <ul>
+                    <li><abbr>Ph.D.</abbr>, Princeton University, 1999</li>            
+                    <li><a href="documents/VivancoCV.pdf">Curriculum Vitae</a></li>
+                </ul>
+            <h6>Area of expertise</h6>
+                <p>Cultural and environmental anthropology, development and social movements, knowledge, science and technology, tourism, ethnographic methods; Latin America. </p>
+              
+            <h6>Contact Information</h6>
+
+                <address>
+					<strong>Email:</strong> <a href="mailto:luis.vivanco@uvm.edu">luis.vivanco@uvm.edu</a><br />
+					<strong>Phone:</strong> (802) 656-1184
+				
+                </address>
+                	<p><strong>Office Hours:</strong> Tuesday, 12:00-1:30 and Friday, 3:00-4:30; or by appointment<br />
+           	  Williams Hall, Room 512</p>
+                	<p><strong>Website:</strong> <a href="/~lvivanco/">Faculty website</a></p>
+          </div>
+  </div>
+
+  <p>Luis Vivanco is a Cultural  Anthropologist, Director of UVM&rsquo;s Global and Regional Studies Program, and  Founding Director of UVM&rsquo;s Global Studies Program. He holds an A.B. in Religion  from Dartmouth College (1991), and M.A. (1995) and Ph.D. (1999) degrees in  Cultural Anthropology from Princeton University. He came to UVM in 1997 as a  New England Board of Higher Education Dissertation Write-up Fellow, and began as  Assistant Professor in 1999. In 2005, he was awarded tenure and promoted to  Associate Professor. </p>
+  <p>His scholarship focuses on  understanding the cultural and political aspects of environmental change and  efforts to &quot;save nature&quot; through environmental social movements. This  research, which he has conducted in Costa Rica, Mexico, and the U.S., explores  how meanings of nature and social change are debated, negotiated, imposed, and  resisted across diverse social contexts, including community environmental and  indigenous groups, the ecotourism economy and advocacy, and sustainable  development organizations. This broader research agenda has evolved to include  writing about the relationship between visual culture and environment, focusing  on how media, cinema, and other public institutions help shape popular  understanding of environmental issues. In recent years, Luis has also developed  a distinct but related research program investigating the rise of sustainable  transportation movements and alternatives to automobility in urban areas,  specifically focused on the relationship between bicycle transportation, environmental  sustainability, and quality of life.</p>
+  <p>He has published several books on  different aspects of this research, including <u>Green Encounters: Shaping and  Contesting Environmentalism in Rural Costa Rica</u> (Berghahn Books, 2006), and  (as co-editor with Rob Gordon) <u>Tarzan was an Ecotourist&hellip;And Other Tales in  the Anthropology of Adventure</u> (Berghahn Books, 2006). He is currently  writing a new book on urban bicycle mobility called <u>Reconsidering the  Bicycle: An Anthropological Perspective on a New (Old) Thing</u> (Routledge  Press, 2013). His research has also been published in various journals  (American Anthropologist, Ethnology, Alternatives Journal, The Ecologist) and  books on democracy and environmentalism; Central American transitions;  reconstructing conservation; tourism; religion and cinema; and ecocinema  studies. </p>
+  <p>He also has several anthropology  textbooks. He is co-editor of <u>Talking About People: Readings in Contemporary  Cultural Anthropology</u> (McGraw-Hill Higher Education, 4th  edition, 2005). He is currently co-authoring two new textbooks for Oxford  University Press, an introduction to cultural anthropology book and an  introduction to general anthropology, expected to be published in 2013 and 14.</p>
+  <p>Complementing his academic work,  Luis has been involved in Indigenous tourism activism, as a board member of  Indigenous Tourism Rights International; as a Visiting Public Policy Fellow at  the Snelling Center for Government (2006-7); and, since 2012, as a board member  of Local Motion, a Burlington-based active transportation organization.</p>
+  <p>He has received a number of  prestigious awards to support his ethnographic research on environmentalism,  ecotourism, and most recently bicycles and mobility, including: Wenner-Gren  Foundation for Anthropological Research, MacArthur Foundation, Mellon  Foundation, the New England Board of Higher Education, and the U.S. Department  of Transportation. He has also received a National Endowment for the Humanities  grant to attend a cultural studies institute at the East-West Center  (University of Hawai'i) and a Fullbright Scholar Award to teach at the  University of Costa Rica.</p>
+  <p>In  2012, Luis won UVM&rsquo;s highest teaching honor when he received the Kidder  Outstanding Faculty Award, for excellence in teaching, mentoring, and an  ability to inspire students for life-long learning. He was also awarded the  2012 Outstanding Service-Learning Faculty Award for his successes at  integrating service learning into several of his courses. </p>
+  <p>He  teaches a variety of courses in the Anthropology Department and Global Studies  Program. In his area of research specialization, he regularly teaches courses  on Culture and Global Environmental Problems (for UVM&rsquo;s Integrated Social  Science Program); Environmental Anthropology; Introduction to Cultural  Anthropology; Anthropology of Latin America and the Caribbean; Anthropology of  Media; Anthropology of Mobility; and Bicycles, Globalization, and  Sustainability. He has also taught courses on Indigenous Social Movements;  Ethnographic Research Methods; Anthropological Theory; Latinos in the U.S.;  Race and Ethnicity in the U.S.&nbsp; In 2006,  he helped develop and co-led UVM&rsquo;s first semester study abroad program in  Oaxaca, Mexico.</p>
+</div>
+    <div id="rightcolumn">
+      <?php include ("faculty_list.html"); ?>
+    </div>

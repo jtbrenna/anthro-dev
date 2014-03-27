@@ -1,0 +1,7 @@
+<h3>Faculty</h3>
+<h4>Meet our new Anthropology professor.</h4>
+<p><img src="../images/teresa_mares.jpg" alt="teresa mares"  class="imageleft" width="236" height="305">Teresa  Mares is an Assistant Professor of Anthropology at the University of Vermont  and is affiliated with the Transdisciplinary Research Initiative in Food  Systems. She received her B.A. (Summa Cum Laude) in Anthropology and Foreign  Languages and Literatures with a concentration in Spanish from Colorado State  University (2002), and her M.A. (2005) and Ph.D. (2010) in Sociocultural  Anthropology from the University of Washington. She also completed a graduate  certificate in Women Studies at the University of Washington. Prior to coming  to UVM, Dr. Mares was a Social and Behavioral Sciences Diversity Postdoctoral  Fellow in the Department of Anthropology at Ohio State University. </p>
+
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>

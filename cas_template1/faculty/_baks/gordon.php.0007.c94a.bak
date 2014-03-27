@@ -1,0 +1,44 @@
+<h3>Faculty - Robert Gordon</h3>
+    <div id="leftcolumn">
+        <div id="summary_box"><img src="../images/rob.jpg" alt="Gordon" width="192" height="240">
+          <div id="summary_text">
+            <h4>Robert Gordon, <span class="title">Professor</span></h4>
+                  <ul>
+                    <li><abbr>Ph.D.</abbr>, University of Illinois, 1977</li> 
+                    <li><strong><a href="documents/GordonCV.pdf">Curriculum Vitae</a></strong></li>
+                  </ul>
+              <h6>Area of expertise</h6>
+                  <p>Cultural anthropology, social change, development, politics and law, visual anthropology; Africa, Papua New Guinea</p>
+                
+                <h6>Contact Information</h6>
+  
+                <address>
+                  
+                  <strong>Email:</strong> <a href="mailto:robert.gordon@uvm.edu">Robert Gordon</a><br />
+                  <strong>Phone:</strong> (802) 656-2107
+                </address>
+                <address>
+                <strong>                <a href="documents/GordonCV.doc"></a></strong>
+                </address>
+                <p><strong>Office Hours:</strong> Monday, Wednesday, Friday - 10:35-11:35, or by appointment<br />
+            Williams Hall, Room 517</p>
+          </div>
+      </div>
+        <p>Born and raised in the most sparsely populated country in the world, the former South West Africa (now Namibia), Rob went to boarding school in South Africa and then on to the Afrikaans-language University of Stellenbosch where he suffered the indignity of studying law, not common law but African law, Roman-Dutch law and Roman law. Fortunately, however, anthropology kept him sane; and after completing a Masters (on "Gossip"), he decided, for a variety of reasons, to broaden his horizons and received his <abbr>Ph.D.</abbr> at the University of Illinois. His dissertation was based on his experiences while employed as a personnel officer on a Namibian mine. Doctorate in hand he was extremely fortunate to be hired as a lecturer at the University of Papua New Guinea where, determined to do public service anthropology, he focused on issues which communities defined as important. This led to research on the ongoing problems of warfare in the Highlands. Three years later he was hired by the University of Vermont and still enjoys this beautiful place and wonderful colleagues. He typically teaches courses on Africa; development; colonialism; law, war and disorder; as well as introductory courses.</p>
+
+<p>Committed to a scholarly, rigorous, engaged anthropology focused on problems which poor and victimized people define as important, his work has largely been concerned with the "Bushmen" (or San or ju-hoansi). This mode of research has led to a number of advocacy-based publications labeled as "revisionist" because they challenge theoretical orthodoxies. In trying to challenge the myth of the happy and pristine hunter-gatherer aka "The Bushmen," he has been forced to develop an interest in the role of the mass media, in particular the role of visual imagery in sustaining and underwriting the way we think about "primitive people." This has led to a current interest in visual anthropology.</p>
+
+<p>His interest is not, however, restricted to those labeled "Bushmen." On the contrary, he has also secured large grants to study a diversity of problems ranging from the impact of soil erosion on land tenure, to the implosion of health care services due to <abbr>TB</abbr>, to how soccer players might be utilized to develop public awareness about <acronym>AIDS</acronym>. That early schooling in law has also become a convenient grounding for his work on legal systems, human rights, violence and genocide. He has also served as a consultant to a variety of non-governmental organizations ranging from the United Nations Development Program to village level "grassroots" associations in Africa. Public interest anthropology, that is where local people ask him to do research on their behalf, is his vocation.</p>
+
+<p>His research has been sponsored by a variety of sources including the University of Vermont, the Social Sciences Research Council, the National Endowment for the Humanities, the Wenner-Gren Foundation, the Maryknolls and he has twice been awarded a Fulbright Fellowship. He has also held visiting or guest positions at Rhodes University, the University of Cape Town, the National University of Lesotho and the University of Namibia. He is currently a Research Associate at the Free State University in South Africa.</p>
+
+<p>Rob's work has appeared in English, German and French. Among his books are Mines, Migrants and Masters, Law and Order in the New Guinea Highlands (with Mervyn Meggitt), The Bushman Myth, Picturing Bushmen, The Meanings of Inheritance, as well as several edited volumes. In addition, his articles have appeared in a wide variety of places, ranging from prestigious academic journals to the National Geographic to local newspapers. He has about a 150 publications to his name and was named Uiversity of Vermont Scholar in 2007-08.</p>
+
+<p>Currently he is working on a number of projects, including a film project on civil courage during the Second World War, an anthropological history of dogs and colonialism in Africa and trying to theorize and study the practice of inheritance as well as starting field work on a number of projects in Germany.</p>
+
+<p>Despite all these activities, he still finds time to run (over 59 marathons), kayak and hike. </p>
+    </div>
+    <div id="rightcolumn">
+  
+<?php include ("faculty_list.html"); ?>
+    </div>

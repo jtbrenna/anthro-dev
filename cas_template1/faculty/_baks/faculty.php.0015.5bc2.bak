@@ -1,0 +1,20 @@
+<h3>Faculty</h3>
+ <div id="leftcolumn">
+ <h4>Meet our new Anthropology lecturer</h4>
+ <div id="intro">
+<p><img src="../images/matter.jpg" alt="Scott Matter"  class="imageleft" width="150" height="200"> Scott  Matter, Lecturer in the Department of Anthropology, was born and raised in  Edmonton, Alberta, Canada. He entered university as an anthropology major and graduated  with a B.A. (Honors) from the University of Alberta (2000). Before starting  graduate school, he worked as a professional researcher on corporate social  responsibility for a small consultancy and as a field researcher on aggression  in bars for a research project run through the Centre for Addiction and Mental  Health, both in Toronto. He received his M.A. (2005) and Ph.D. (2011) from  McGill University in Montreal, Quebec. Most recently, he held a SSHRC  Postdoctoral Fellowship in the Department of Anthropology at Rutgers, the State  University of New Jersey.</p>
+<p>Dr.  Matter has been conducting research in Kenya since 2003, originally focusing on  ethno-political-environmental conflict. His doctoral project - Struggles over belonging: Insecurity,  inequality, and the cultural politics of property at Enoosupukia, Kenya &ndash;  looked at transformations in ethnic identity and territoriality, governance,  and property regimes in colonial and postcolonial Kenya, and explores how the  past influences current and future possibilities. His dissertation explored how  marginalized rural Kenyans experience and navigate uncertainty and insecurity  of land tenure, and how the contemporary property regime has been shaped by  responses to successive governmental interventions. This work highlights the  important role that social and political inequalities play in contexts of legal  and institutional pluralism, as well as the ways that projects intended to  further development and conservation can transform and be transformed by their  local subjects.</p>
+<p>His current research project examines the  articulation of global institutions, networks, processes and discourses with  local dynamics, in particular where the international Indigenous Peoples  movement intersects with the emerging paradigm of carbon forestry. He has  conducted early field work for this project in Kenya and at the United Nations  Permanent Forum for Indigenous Issues in New York. This project is intended to  investigate how different stakeholders conceptualize local communities and landscapes,  and how new translocal and transnational connections reconfigure the dimensions  of identity, political representation, sovereignty, and the environment.</p>
+<p>&nbsp;</p>
+ </div>
+<h5>Retired Faculty</h5>
+ <p><strong>William &quot;Bill&quot; Haviland, Ph.D.</strong>, Professor; University of Pennsylvania, 1963; cultural anthropology, archaeology, physical anthropology; Mesoamerica, North America<br>
+   <strong>Carroll Lewin; Ph.D.</strong>, Associate Professor; Brandeis University, 1971; cultural anthropology, gender, theory; Middle East<br>
+   <strong>William Mitchell, Ph.D.</strong>; Columbia University, 1969; cultural anthropology, social organization, psychological anthropology, American Jewry; New Guinea (Sepik)<br>
+   <strong>A. Peter Woolfson, Ph.D.</strong>, Professor; S.U. New York-Buffalo, 1967; sociolinguistics, linguistic anthropology, bilingualism and biculturalism, microethnography, aging, French Vermonters; North America</p>
+ 
+</div>
+
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>
