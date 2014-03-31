@@ -1,6 +1,6 @@
 <h3>Faculty - Robert Gordon</h3>
     <div id="leftcolumn">
-        <div id="summary_box"><img src="../images/rob.jpg" alt="Gordon" width="192" height="240">
+        <div id="summary_box"><img src="../images/gordon.jpg" alt="Gordon" width="192" height="240">
           <div id="summary_text">
             <h4>Robert Gordon, <span class="title">Professor</span></h4>
                   <ul>
@@ -14,7 +14,7 @@
   
                 <address>
                   
-                  <strong>Email:</strong> <a href="mailto:robert.gordon@uvm.edu">Robert Gordon</a><br />
+                  <strong>Email:</strong> <a href="mailto:robert.gordon@uvm.edu">robert.gordon@uvm.edu</a><br />
                   <strong>Phone:</strong> (802) 656-2107
                 </address>
                 <address>
@@ -37,8 +37,4 @@
 <p>Currently he is working on a number of projects, including a film project on civil courage during the Second World War, an anthropological history of dogs and colonialism in Africa and trying to theorize and study the practice of inheritance as well as starting field work on a number of projects in Germany.</p>
 
 <p>Despite all these activities, he still finds time to run (over 59 marathons), kayak and hike. </p>
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>

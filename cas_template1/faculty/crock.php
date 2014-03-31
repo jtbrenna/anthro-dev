@@ -15,7 +15,7 @@
 
                 <address>
                 
-                    <strong>Email:</strong> <a href="mailto:john.crock@uvm.edu">John Crock</a><br />
+                    <strong>Email:</strong> <a href="mailto:john.crock@uvm.edu">john.crock@uvm.edu</a><br />
                     <strong>Phone:</strong> (802) 656-4310
                 </address>
                 <p><strong>Office Hours:</strong> by appointment <br />
@@ -27,8 +27,4 @@
       <p>Before returning to the University of Vermont as a faculty member, John G. Crock, attended <abbr>UVM</abbr> as an undergraduate in the mid 1980s. After graduating from <abbr>UVM</abbr>, John returned to his home state of Maine to work for the University of Maine, supervising archaeological field work throughout Maine and Vermont.</p>
 
 <p>In the early 90s, good fortune and an interest in islands (he grew up in Bar Harbor on Mount Desert Island) led John to the Caribbean to conduct archaeological research on the islands of Montserrat and later Anguilla. Following this experience, John entered graduate school at the University of Pittsburgh. His dissertation research focused on late prehistoric Amerindian society in Anguilla and the development of socially complex chiefdoms in the northern Lesser Antilles. John lived in Anguilla from 1995-98 conducting field work and received his <abbr>Ph.D.</abbr> in 2000, the same year he returned to Vermont to direct the Anthropology Department's Consulting Archaeology Program (<abbr>UVM</abbr> CAP2). John keeps busy as the <abbr>UVM</abbr> CAP Director, overseeing numerous archaeological studies conducted across Vermont every year. He brings his extensive field experience into his Prehistoric Archaeology class, typically taught in the spring semester. John continues to be active in Caribbean archaeology as well, presenting papers at international conferences and instructing UVM's field school in Anguilla. John has authored dozens of technical reports for consulting archaeology projects and also has published articles on his research in New England and the Caribbean.</p>
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
-    </div>
+</div>

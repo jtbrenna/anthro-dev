@@ -1,6 +1,7 @@
 <h3>Faculty - Benjamin Eastman</h3>
     <div id="leftcolumn">
-        <div id="summary_box"><img src="../images/Eastman.jpg" width="142" height="142" alt="Eastman">
+        <div id="summary_box">
+            <img src="../images/eastman.jpg" width="142" height="142" alt="Eastman">
             <div id="summary_text">
                 <h4>Benjamin Eastman, <span class="title">Assistant Professor </span></h4>
                 <ul>
@@ -14,7 +15,7 @@
 
                 <address>
                 
-                    <strong>Email:</strong> <a href="mailto:benjamin.eastman@uvm.edu">Benjamin Eastman</a><br />
+                    <strong>Email:</strong> <a href="mailto:benjamin.eastman@uvm.edu">benjamin.eastman@uvm.edu</a><br />
                 </address>
                 <p><strong>Phone:</strong> (802) 656-2905</p>
               <p><strong>Office Hours:</strong> Tuesday and Thursday, 1:00-3:00; or by appointment</p>
@@ -29,8 +30,4 @@
                 <p>In addition to his  ongoing research on the relationship between politics and sports in  contemporary Cuba, Professor Eastman also looks at issues of globalization  through the lens of sport. Most recently, he conducted ethnographic  research in March 2009 at the second World Baseball Classic. In both  Mexico City and Los Angeles, California, Eastman interviewed fans from around  the world as well as observed the various levels of competition contained  within and promoted by the Classic: team against team; nation against nation;  as well as corporation against corporation.</p>
                 <p>Recent  publications based on this research include his co-edited volume, <em>America's Game(s): A Critical Anthropology  of Sports</em> (Routledge 2007) featuring his articles on Cuban baseball fans  and their efforts to make sense of Cuban baseball player defections to play  professionally in the United States as well as on how contemporary practices of  American power can be read through American sporting practices. Eastman teaches  courses on political anthropology, the anthropology of sports, the anthropology  of colonialism, the anthropology of Latin America, as well as anthropological  theory. </p>
 
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>

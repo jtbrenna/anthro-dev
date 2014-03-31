@@ -13,7 +13,7 @@
 
                 <address>
                 
-                    <strong>Email:</strong> <a href="mailto:cholly@uvm.edu">Catherine Holly</a><br />
+                    <strong>Email:</strong> <a href="mailto:cholly@uvm.edu">cholly@uvm.edu</a><br />
                 </address>
                 <p><strong>Office Hours:</strong> by appointment <br /></p>
                 
@@ -23,8 +23,4 @@
       <!--<p>Side copy to come </p>-->
 
 
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>
