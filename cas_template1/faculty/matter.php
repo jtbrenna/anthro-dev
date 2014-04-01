@@ -13,7 +13,7 @@
   
                 <address>
                   
-                  <strong>Email:</strong> <a href="mailto:scott.matter@uvm.edu">Scott.Matter@uvm.edu</a><br />
+                  <strong>Email:</strong> <a href="mailto:scott.matter@uvm.edu">scott.matter@uvm.edu</a><br />
                   <strong>Phone:</strong> (802) 656-2107
                 </address>
                 <address>
@@ -27,8 +27,4 @@
 
         <p>Dr.  Matter has been conducting research in Kenya since 2003, originally focusing on  ethno-political-environmental conflict. His doctoral project - <em>Struggles over belonging: Insecurity,  inequality, and the cultural politics of property at Enoosupukia, Kenya</em> &ndash;  looked at transformations in ethnic identity and territoriality, governance,  and property regimes in colonial and postcolonial Kenya, and explores how the  past influences current and future possibilities. His dissertation explored how  marginalized rural Kenyans experience and navigate uncertainty and insecurity  of land tenure, and how the contemporary property regime has been shaped by  responses to successive governmental interventions. This work highlights the  important role that social and political inequalities play in contexts of legal  and institutional pluralism, as well as the ways that projects intended to  further development and conservation can transform and be transformed by their  local subjects.</p>
         <p>His current research project examines the  articulation of global institutions, networks, processes and discourses with  local dynamics, in particular where the international Indigenous Peoples  movement intersects with the emerging paradigm of carbon forestry. He has  conducted early field work for this project in Kenya and at the United Nations  Permanent Forum for Indigenous Issues in New York. This project is intended to  investigate how different stakeholders conceptualize local communities and landscapes,  and how new translocal and transnational connections reconfigure the dimensions  of identity, political representation, sovereignty, and the environment.</p>
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>

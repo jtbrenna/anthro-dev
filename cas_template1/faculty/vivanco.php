@@ -1,7 +1,7 @@
 <h3>Faculty - Luis Vivanco</h3>
 <div id="leftcolumn">
         <div id="summary_box">
-          <p><img src="../images/LuisVivanco2012a_000.jpg" width="257" height="341" alt="Vivanco"></p>
+          <p><img src="../images/vivanco.jpg" width="257" height="341" alt="Vivanco"></p>
           <div id="summary_text">
                 <h4>Luis Vivanco, <span class="title">Associate Professor and Director of Global and Regional Studies</span></h4>
                 <ul>
@@ -33,6 +33,3 @@
   <p>In  2012, Luis won UVM&rsquo;s highest teaching honor when he received the Kidder  Outstanding Faculty Award, for excellence in teaching, mentoring, and an  ability to inspire students for life-long learning. He was also awarded the  2012 Outstanding Service-Learning Faculty Award for his successes at  integrating service learning into several of his courses. </p>
   <p>He  teaches a variety of courses in the Anthropology Department and Global Studies  Program. In his area of research specialization, he regularly teaches courses  on Culture and Global Environmental Problems (for UVM&rsquo;s Integrated Social  Science Program); Environmental Anthropology; Introduction to Cultural  Anthropology; Anthropology of Latin America and the Caribbean; Anthropology of  Media; Anthropology of Mobility; and Bicycles, Globalization, and  Sustainability. He has also taught courses on Indigenous Social Movements;  Ethnographic Research Methods; Anthropological Theory; Latinos in the U.S.;  Race and Ethnicity in the U.S.&nbsp; In 2006,  he helped develop and co-led UVM&rsquo;s first semester study abroad program in  Oaxaca, Mexico.</p>
 </div>
-    <div id="rightcolumn">
-      <?php include ("faculty_list.html"); ?>
-    </div>

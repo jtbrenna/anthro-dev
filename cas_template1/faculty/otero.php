@@ -13,7 +13,7 @@
 
                 <address>
                 
-                    <strong>Email:</strong> <a href="mailto:gringito59@hotmail.com">Lawrence Ziegler-Otero</a>
+                    <strong>Email:</strong> <a href="mailto:gringito59@hotmail.com">gringito59@hotmail.com</a>
                 </address>
                 <p><strong>Office Hours:</strong> by appointment</p>
                 
@@ -23,8 +23,4 @@
       <!--<p>Side copy to come </p>-->
 
 
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>

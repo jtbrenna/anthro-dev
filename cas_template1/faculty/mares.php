@@ -6,7 +6,7 @@
 <h3>Faculty - Teresa Mares</h3>
     <div id="leftcolumn">
         <div id="summary_box">
-          <p><img src="../images/teresa_mares.jpg" alt="mares" width="236" height="305"></p>
+          <p><img src="../images/mares.jpg" alt="mares" width="236" height="305"></p>
           <div id="summary_text">
                 <h4>Teresa Mares, Assistant<span class="title"> Professor</span></h4>
                 <ul>
@@ -17,7 +17,7 @@
                 <p>Research interests focus  on sustainable food systems and food  movements, Latino/a migration in the United States, environmental  justice, and diet-related health disparities.</p>
                 <h6>Contact Information</h6>
             <address>
-            <span class="style2"><strong>Email:</strong> <a href="mailto:teresa.mares@uvm.edu">Teresa Mares</a><br />
+            <span class="style2"><strong>Email:</strong> <a href="mailto:teresa.mares@uvm.edu">teresa.mares@uvm.edu</a><br />
                 <strong>Phone:</strong>(802) 656-5706            </span>
             </address>
                 <address>
@@ -31,8 +31,5 @@
         <p>Teresa  Mares is an Assistant Professor of Anthropology at the University of Vermont  and is affiliated with the Transdisciplinary Research Initiative in Food  Systems. She received her B.A. (Summa Cum Laude) in Anthropology and Foreign  Languages and Literatures with a concentration in Spanish from Colorado State  University (2002), and her M.A. (2005) and Ph.D. (2010) in Sociocultural  Anthropology from the University of Washington. She also completed a graduate  certificate in Women Studies at the University of Washington. Prior to coming  to UVM, Dr. Mares was a Social and Behavioral Sciences Diversity Postdoctoral  Fellow in the Department of Anthropology at Ohio State University.</p>
         <p>Dr.  Mares&rsquo; research focuses on the intersection of food and migration studies, and  she is particularly interested in the ways that the di<a name="_GoBack"></a>ets  and foodways of Latino/a immigrants change as a result of migration. Her  dissertation<em>We Are Made of Our Food: Latino/a Immigration and the  Practices and Politics of Eating </em>investigated how the claims of Latino/a  immigrants to food justice and food entitlements are made, reshaped, and denied  in Seattle, Washington. Analytically, Dr. Mares engages with theories and  concepts of citizenship and transnationalism, identity and foodways, and  contemporary social movements. She is committed to applied, community-based  ethnographic methodologies and is currently developing a new project on food  access and food security among Latino/a dairy workers in Vermont.</p>
         <p> Recent publications include, &ldquo;Here  We Have the Food Bank&rdquo;: Latino/a Immigration and the Contradictions of  Emergency Food&rdquo; in&nbsp;<em>Food and Foodways;&nbsp;</em>&ldquo;Tracing Immigrant Identity  Through the Plate and the Palate&rdquo; in&nbsp;<em>Latino Studies</em>, &ldquo;Mapping the  Food Movement: Addressing Inequality and Neoliberalism&rdquo; (co-written with Alison  Alkon) in <em>Environment and Society: Advances in Research</em>; and a chapter  entitled &ldquo;Environmental and Food Justice: Toward Local, Slow, and Deep Food  Systems&rdquo; (co-written with Devon Pe&ntilde;a) in the edited volume <em>Cultivating Food  Justice: Race, Class, and Sustainability</em>. During the fall of 2013, Dr.  Mares is teaching courses on Food and Culture, and Cultural Anthropology. She  will be on research leave during the spring of 2014. </p>
-    </div>
-    <div id="rightcolumn">
-        <?php include ("faculty_list.html"); ?>
     </div>
 

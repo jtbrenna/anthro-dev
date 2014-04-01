@@ -1,5 +1,5 @@
 <h2>Francis &quot;Jess&quot; Robinson</h2>
-<p><img src="../images/RobinsonPic_002.jpg" width="170" height="156" alt="Robinson"></p>
+<p><img src="../images/robinson.jpg" width="170" height="156" alt="Robinson"></p>
 <h4>&nbsp;</h4>
 <div id="leftcolumn"><div id="summary_box">
 <div id="summary_text">
@@ -28,7 +28,3 @@
 	<p>Jess's Ph.D. dissertation work explores Northeastern Early Woodland mortuary ceremonialism and interregional exchange, ca. 3,000-2,000 B.P. He is interested in the nexus of religion (and its rituals) and politics, particularly during situations of cultural crisis. His other interests include ritual economy, mortuary studies, the emergence of complexity, land use and landscape identification, hunter-gatherer studies, Paleoindian studies and the adoption of agriculture among hunter-gatherer groups.</p>
 
 </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
-    </div>

@@ -15,7 +15,7 @@
 
                 <address>
                 
-                    <strong>Email:</strong> <a href="mailto:elizabeth.a.smith@uvm.edu">Elizabeth Smith</a><br />
+                    <strong>Email:</strong> <a href="mailto:elizabeth.a.smith@uvm.edu">elizabeth.a.smith@uvm.edu</a><br />
                     <strong>Phone:</strong> (802) 656-2973
                 </address>
                 <p><strong>Office Hours:</strong> Tuesday 1:00-3:00 and Thursday 3:30-4:30 or by appointment<br />
@@ -26,8 +26,4 @@
 
       <p>Elizabeth Smith graduated from the University of Wisconsin-Madison in 1991 with a double major in Anthropology and Comparative Literature and a certificate in African Studies. After living in Egypt for three years where she worked in university administration at the American University in Cairo, she went on to receive her <abbr>M.A.</abbr> (1999) and <abbr>Ph.D.</abbr> (2006) in Sociocultural Anthropology from New York University.</p>
       <p>Smith's <abbr>Ph.D.</abbr> research was on how Nubians in Egypt are represented in popular culture, tourism, and museums in Cairo and Aswan. Her current and forthcoming publications resulting from this research address material culture and nationalism in the Nubia Museum of Aswan, race and media images of Nubians, identification with archaeological sites in nostalgia for Nubia, and the circulation of photographs of Nubia in popular culture. Other research interests include ethnographic and archaeological photography, ethnographic film, Middle East ethnography, and marriage in Egypt.</p>
-    </div>
-    <div id="rightcolumn">
-  
-<?php include ("faculty_list.html"); ?>
     </div>
