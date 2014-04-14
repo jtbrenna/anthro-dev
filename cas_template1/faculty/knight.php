@@ -15,7 +15,12 @@
                 
                     <strong>Email:</strong> <a href="mailto:cknight@uvm.edu">cknight@uvm.edu</a><br />
                 </address>
-                <p><strong>Office Hours:</strong> by appointment <br /></p>
+                <p>Dr. Charles Knight received his Ph.D. in Anthropology from the University of Pittsburgh in 1999 and joined UVM CAP in 2001. Since 1989, Knight has conducted archaeological 
+                    research in the eastern United States, Mexico, the Caribbean, Ecuador, and Alberta, Canada. Dr. Knight specializes in digital mapping, spatial analysis, and topographic 
+                    modeling with GIS, CADD and other programs, and has a strong background in lithic technology. He has been awarded research grants from organizations including FAMSI and 
+                    the National Science Foundation. In addition to assisting the Director in administrative matters, Knight also serves as Principal Investigator on projects and manages the 
+                    UVM CAP data systems and data analysis. He has authored several technical reports and scientific articles, and meets the Secretary of the Interior's minimum professional 
+                    qualifications for archaeology (Code of Federal Regulations, 36 CFR Part 61; Federal Register 48, 190:44738-44739).</p>
                 
             </div>
         </div>
