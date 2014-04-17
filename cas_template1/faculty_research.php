@@ -36,3 +36,5 @@ $feed->handle_content_type();
 			<p><small>Posted on <?php echo $item->get_date('j F Y | g:i a'); ?></small></p>
 		</div>
 <?php } ?>
+
+<h5><a href="http://blog.uvm.edu/anthro/category/faculty-research/page/2/"><u>Older Articles</u></a> - (Links to Anthropology Department Blog)</h5>
