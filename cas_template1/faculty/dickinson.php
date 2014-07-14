@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+    <?php include ("faculty_list.html"); ?>
+</div>
+
 <h3>Faculty - Jennifer Dickinson</h3>
     <div id="leftcolumn">
         <div id="summary_box">
@@ -26,4 +30,7 @@
 <p>Dr. Dickinson's dissertation, entitled "Life on the Edge: Understanding Social Change through Everyday Conversation in a Ukrainian Border Community," combined these broad interests, exploring the ways in which everyday conversational interactions among members of a dialect-speaking border community contributed to these villagers' emerging understandings of social and economic change in post-Soviet Ukraine. One of the main foci of her dissertation, and of her continuing work in linguistic and cultural anthropology, is the nature of conversational storytelling, from the level of grammatical structure to the nature of topic shift and the role of storytelling in creating social cohesion and social meaning.  In addition to continuing to study the role of personal narrative the transformation of working life in the Zakarpattia region of Ukraine, Dr. Dickinson has established a separate line of research into the linguistics and semiotics of advertising.  Her most recent project focuses on alphabet mixing and graphic design in Ukrainian outdoor advertising, offering a linguistic anthropological approach to the transformation of public space in the city of Lviv.  Her blog <a href="http://blog.uvm.edu/jadickin/">&quot;Language, Culture and <em>Smak</em>&quot;</a>&#157; explores topics related to language, culture and food in Eastern Europe.   Dr. Dickinson also serves as the faculty Director of UVM's <a href="../../ctl/">Center for Teaching and Learning</a> and Director of <a href="http://www.uvm.edu/~global/rees/">Russian and East European Studies</a>.  </p>
 <p>Among the courses Prof. Dickinson has taught at UVM are Linguistic Anthropology; Sociolinguistics; Anthropology of Eastern Europe; Linguistics and Archaeology; Alcohol and Culture; Business Anthropology; Storytelling in Cross-Cultural Perspective; Language, Gender and Sexuality; Museum Anthropology and Modernity and Material Culture. </p>
 </div>
+
+<p class="with_captionright lg_caption"><img src="../images/faculty/Dickinson-2.jpeg" class="imagetight" alt="Jennifer Dickinson" /> At a polling site in a small village in rural Ukraine</p>
+
 

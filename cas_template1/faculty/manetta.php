@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+    <?php include ("faculty_list.html"); ?>
+</div> 
+
     <h3>Faculty - Emily Manetta</h3>
     <div id="leftcolumn">
         <div id="summary_box">
@@ -22,4 +26,3 @@
         <p> Emily Manetta, Assistant Professor of Anthropology and in the Program in   Linguistics, received her B.A. from Swarthmore College in Philadelphia   and her Ph.D. from the University of California, Santa Cruz in   Linguistics. Her current work focuses on the syntax of South Asian   languages. Her dissertation, based on linguistic field work with a   Kashmiri refugee community, featured a comparative analysis of the   syntax of questions in Kashmiri and Hindi-Urdu. 
 Dr. Manetta will be involved in the continuing development of   linguistics courses at UVM, teaching Introduction to Syntax, Language   and Meaning, Linguistic Anthropology, and Advanced Topics in Linguistics. </p>
 </div>
-

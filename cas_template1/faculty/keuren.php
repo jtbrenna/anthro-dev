@@ -1,3 +1,7 @@
+
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>
 <h3>Faculty - Scott Van Keuren</h3>
     <div id="leftcolumn">
         <div id="summary_box"><img src="../images/vankeuren.jpg" width="159" height="200" alt="VK">

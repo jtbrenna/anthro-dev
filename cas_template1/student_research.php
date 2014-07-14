@@ -36,3 +36,10 @@ $feed->handle_content_type();
 			<p><small>Posted on <?php echo $item->get_date('j F Y | g:i a'); ?></small></p>
 		</div>
 <?php } ?>
+
+<h3>Student Research Resources</h3>
+
+<ul>
+	<li><a href="documents/HumanSubjectsResearchGuideforAnthStudents.pdf">Research on Human Subjects</a></li>
+	<li><a href="documents/AnthHonorsThesisGuide.pdf">Honors Thesis Guide</a></li>
+</ul>

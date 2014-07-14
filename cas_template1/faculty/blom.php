@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>
+
 <h3>Faculty - Deborah Blom</h3>
     <div id="leftcolumn">
         <div id="summary_box">
@@ -29,3 +33,6 @@
 
 <p>Currently, Blom focuses her research in South American Andean regions of Peru and Bolivia, addressing question of health and nutrition, diversity, identity, colonization, and migration within ancient Tiwanaku society, as well as earlier and later developments. Her research has been funded by The H. John Heinz III Fund, Vanderbilt University's Discovery Grant Program, the University of Vermont's Committee on Research and Scholarship and College of Arts and Sciences Deans Fund, the Wenner Gren Foundation for Anthropological Research, the Tinker Foundation, and the William and Flora Hewlett Foundation. These pursuits have led to publications and conference papers on human sacrifice, mortuary ritual, population movement, health and diet, social complexity, trade, and human body modification as a means of expressing identity.</p>
 </div>
+
+<p class="with_captionleft lg_caption"><img src="../images/faculty/Blom.jpg" class="imageleft" alt="Deborah Blom" /> Excavating with colleague Ruth Fontenla in Mollo Kontu, Tiwanaku, Bolivia</p>
+

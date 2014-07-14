@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+    <?php include ("faculty_list.html"); ?>
+</div>
+
 <style type="text/css">
 <!--
 .style2 {font-style: italic}
@@ -32,4 +36,3 @@
         <p>Dr.  Mares&rsquo; research focuses on the intersection of food and migration studies, and  she is particularly interested in the ways that the di<a name="_GoBack"></a>ets  and foodways of Latino/a immigrants change as a result of migration. Her  dissertation<em>We Are Made of Our Food: Latino/a Immigration and the  Practices and Politics of Eating </em>investigated how the claims of Latino/a  immigrants to food justice and food entitlements are made, reshaped, and denied  in Seattle, Washington. Analytically, Dr. Mares engages with theories and  concepts of citizenship and transnationalism, identity and foodways, and  contemporary social movements. She is committed to applied, community-based  ethnographic methodologies and is currently developing a new project on food  access and food security among Latino/a dairy workers in Vermont.</p>
         <p> Recent publications include, &ldquo;Here  We Have the Food Bank&rdquo;: Latino/a Immigration and the Contradictions of  Emergency Food&rdquo; in&nbsp;<em>Food and Foodways;&nbsp;</em>&ldquo;Tracing Immigrant Identity  Through the Plate and the Palate&rdquo; in&nbsp;<em>Latino Studies</em>, &ldquo;Mapping the  Food Movement: Addressing Inequality and Neoliberalism&rdquo; (co-written with Alison  Alkon) in <em>Environment and Society: Advances in Research</em>; and a chapter  entitled &ldquo;Environmental and Food Justice: Toward Local, Slow, and Deep Food  Systems&rdquo; (co-written with Devon Pe&ntilde;a) in the edited volume <em>Cultivating Food  Justice: Race, Class, and Sustainability</em>. During the fall of 2013, Dr.  Mares is teaching courses on Food and Culture, and Cultural Anthropology. She  will be on research leave during the spring of 2014. </p>
     </div>
-

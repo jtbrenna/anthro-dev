@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+    <?php include ("faculty_list.html"); ?>
+</div>
+
 <h3>Adjunct Faculty - Lawrence Ziegler-Otero</h3>
     <div id="leftcolumn">
         <div id="summary_box">

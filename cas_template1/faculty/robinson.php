@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+  <?php include ("faculty_list.html"); ?>
+</div>
+
 <h2>Francis &quot;Jess&quot; Robinson</h2>
 <p><img src="../images/robinson.jpg" width="170" height="156" alt="Robinson"></p>
 <h4>&nbsp;</h4>

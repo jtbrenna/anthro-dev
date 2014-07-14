@@ -21,6 +21,7 @@ $feed->handle_content_type();
 	
 	<div class="header">
 		<h1><a href="<?php echo $feed->get_permalink(); ?>"><?php echo $feed->get_title(); ?></a></h1>
+		<p>See individual <a href="?Page=faculty.html">faculty pages</a> for an overview of research interests</p>
 	</div>
 
 	<?php

@@ -1,3 +1,7 @@
+<div id="rightcolumn">
+    <?php include ("faculty_list.html"); ?>
+</div>
+
     <h3>Faculty - Parker VanValkenburgh</h3>
     <div id="leftcolumn">
         <div id="summary_box">
@@ -23,4 +27,3 @@
         <p>Parker is an anthropological archaeologist whose core research focuses on the political dimensions of landscapes, built environments, and human subjectivities -- or more broadly, political struggles lying at the intersections of where we live and who we are. His primary field project, the Proyecto Arqueol&oacute;gico Za&ntilde;a Colonial (PAZC), has brought together archaeological settlement survey, archival research, geographic information systems (GIS) analysis, and the study of foodways to examine the impact of Spanish colonial forced resettlement on the indigenous populations of Peru in the 16th and 17th centuries CE. With support from the Social Science Research Council, the Wenner-Gren Foundation, the National Geographic Society, and the Spanish Ministry of Culture, the PAZC is providing a case study of how imperial planning projects gain traction and lose ground in daily experience.</p>
         <p>Parker's publications include Territoriality in Archaeology (2013), co-edited with James Osborne. His current book manuscript, Building Subjects, draws off fieldwork in Peru and case studies from the ancient and contemporary worlds to examine forced resettlement in historical and comparative perspective. Parker is also engaged in additional research on long-term environmental change in coastal Peru and colonial ceramic technology. In his spare time, he loves to bike, run, and play guitar, and he is an avid follower of NBA basketball and pro soccer, as well as an devoted fan of single origin coffees and small batch beers.</p>
 </div>
-
